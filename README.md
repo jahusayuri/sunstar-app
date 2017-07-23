@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SunstarApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# sunstar-app
+Implementation of Angular + Aframe
+>>>>>>> 4fe4bc414efa416ba9d0ee99091ac9e180fa059b
